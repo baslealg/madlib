@@ -1,0 +1,13 @@
+.game{
+    font-family: serif;
+    font-size: 15px;
+    padding:5px 5px;
+    background-color: yellow;
+}
+body{
+    color:red;
+    background-color:greenyellow;
+}
+input{
+    border-radius: 10px;
+}
